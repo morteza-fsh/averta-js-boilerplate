@@ -1,0 +1,21 @@
+{
+    "name": "averta-js-boilerplate",
+    "version": "1.0.0",
+    "authors": [
+        "Morteza Faghih Shojaei <morteza@averta.net>"
+    ],
+    "description": "My JS Boilerplate",
+    "main": "Gruntfile.js",
+    "moduleType": [],
+    "keywords": [],
+    "license": "MIT",
+    "homepage": "www.averta.net",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components"
+    ],
+    "devDependencies": {
+        "jquery": "~2.1.1"
+    }
+}
