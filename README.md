@@ -1,4 +1,4 @@
-My-Grunt-Boilerplate
+My-JS-Boilerplate
 ====================
 
 Node installation:
